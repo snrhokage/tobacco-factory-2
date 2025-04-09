@@ -1,0 +1,12 @@
+{
+  "title": "Grind Tobacco Factory v2",
+  "version": "15w25a",
+  "theme": "standard",
+
+  "languages": ["ru"],
+
+  "events": {
+    "onRegister": [],
+    "onProcessClose": []
+  }
+}
