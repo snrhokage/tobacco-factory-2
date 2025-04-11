@@ -1,8 +1,7 @@
 {
   "fps": 30,
 
-  "log-language": "ru",
-  "log-theme": "standard",
+  "language": "ru",
 
   "process-name": "MTA: San Andreas",
   "process-width": 1920,
@@ -13,10 +12,11 @@
 
   "bot-enabled": true,
   "bot-delay": [300, 1000],
-  "bot-grid": [360, 235],
+  "bot-grid": 360,
   "bot-cursor-offset": 0.75,
   "bot-radius-x": [215, 245],
   "bot-radius-y": [215, 245],
   "bot-spread-color": 10,
+  "bot-die-radius": 235,
   "bot-die-color": [0, 199, 240]
 }
