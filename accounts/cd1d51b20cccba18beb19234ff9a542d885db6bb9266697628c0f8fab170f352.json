@@ -2,5 +2,14 @@
   "id": 818587082,
   "name": "Professor",
   "subscription": -1,
-  "permissions": ["tobacco-factory", "anti-afk"]
+  "permissions": [
+    {
+      "permission": "tobacco-factory", 
+      "subscription": -1
+    },
+    {
+      "permission": "anti-afk", 
+      "subscription": -1
+    }
+  ]
 }
