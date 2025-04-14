@@ -39,8 +39,8 @@
     "default": 360
   },
   "bot-cursor-offset": {
-    "min": -2,
-    "max": 2,
+    "min": -2.0,
+    "max": 2.0,
     "default": 0.75
   },
   "bot-radius-x": [
