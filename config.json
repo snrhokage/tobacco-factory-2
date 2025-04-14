@@ -4,12 +4,15 @@
     "max": 60,
     "default": 30
   },
-
+  
   "language": {
     "options": ["ru"],
     "default": "ru"
   },
-
+  
+  "bot-enabled": true,
+  "anti-afk-enabled": true,
+  
   "process-name": "MTA: San Andreas",
   "process-width": {
     "min": 0,
@@ -17,37 +20,6 @@
     "default": 1920
   },
 
-  "anti-afk-enabled": true,
-  "anti-afk-grid": {
-    "min": 1,
-    "max": 720,
-    "default": 360
-  },
-  "anti-afk-radius": {
-    "min": 0,
-    "max": 540,
-    "default": 245
-  },
-  "anti-afk-time": [
-    {
-      "min": 1,
-      "max": 3600,
-      "default": 1200
-    },
-    {
-      "min": 1,
-      "max": 3600,
-      "default": 1500,
-      "ordered": true
-    }
-  ],
-  "anti-afk-repeat": {
-    "min": -1,
-    "max": 100,
-    "default": -1
-  },
-
-  "bot-enabled": true,
   "bot-delay": [
     {
       "min": 0,
@@ -123,5 +95,34 @@
     "max": 255,
     "default": 240
     }
-  ]
+  ],
+
+  "anti-afk-grid": {
+    "min": 1,
+    "max": 720,
+    "default": 360
+  },
+  "anti-afk-radius": {
+    "min": 0,
+    "max": 540,
+    "default": 245
+  },
+  "anti-afk-time": [
+    {
+      "min": 1,
+      "max": 3600,
+      "default": 1200
+    },
+    {
+      "min": 1,
+      "max": 3600,
+      "default": 1500,
+      "ordered": true
+    }
+  ],
+  "anti-afk-repeat": {
+    "min": -1,
+    "max": 100,
+    "default": -1
+  }
 }
