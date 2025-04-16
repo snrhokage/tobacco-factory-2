@@ -77,7 +77,7 @@
   "bot-die-radius": {
     "min": 0,
     "max": 540,
-    "default": 235
+    "default": 230
   },
   "bot-die-color": [
     {
