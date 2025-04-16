@@ -4,12 +4,10 @@
   "subscription": -1,
   "permissions": [
     {
-      "permission": "bot-tobacco-factory",
-      "access": true
+      "permission": "bot-tobacco-factory"
     },
     {
-      "permission": "anti-afk",
-      "access": true
+      "permission": "anti-afk"
     }
   ]
 }
