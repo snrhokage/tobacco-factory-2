@@ -4,7 +4,7 @@
   "subscription": -1,
   "permissions": [
     {
-      "permission": "tobacco-factory",
+      "permission": "bot-tobacco-factory",
       "access": true
     },
     {

@@ -23,12 +23,12 @@
   "bot-delay": [
     {
       "min": 0,
-      "max": 600,
+      "max": 3600,
       "default": 300
     },
     {
       "min": 0,
-      "max": 600,
+      "max": 3600,
       "default": 1000,
       "ordered": true
     }
