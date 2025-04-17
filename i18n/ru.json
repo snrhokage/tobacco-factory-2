@@ -1,26 +1,38 @@
 {
-  "title": "Название",
-  "version": "Версия",
-
-  "greeting": "Добро пожаловать",
-  "subscription": "Подписка",
-
-  "anti-afk-enabled": "Статус Анти АФК",
-  "anti-afk-time": "Анти АФК",
-  "anti-afk-repeat": "Повтор",
-
-  "process-name": "Процесс",
+  "fps": "Кадры в секунду",
+  "language": "Язык",
+  "bot-enabled": "Статус Бота",
+  "anti-afk-enabled": "Статус Анти-АФК",
+  "process-name": "Название процесса",
   "process-width": "Ширина процесса",
-
-  "bot-enabled": "Статус бота",
   "bot-delay": "Задержка",
   "bot-grid": "Сетка",
   "bot-cursor-offset": "Смещение курсора",
   "bot-radius-x": "Радиус по оси X",
   "bot-radius-y": "Радиус по оси Y",
   "bot-spread-color": "Разброс цвета",
+  "bot-die-radius": "Радиус до плашки",
   "bot-die-color": "Цвет плашки",
+  "anti-afk-grid": "Сетка Анти-АФК",
+  "anti-afk-radius": "Радиус Анти-АФК",
+  "anti-afk-time": "Время Анти-АФК",
+  "anti-afk-repeat": "Повтор Анти-АФК",
 
-  "status-true": "Вкл",
-  "status-false": "Выкл"
+  "Authorization": "Авторизация",
+  "Serial": "Серийный номер",
+  "Enter the code...": "Введите код...",
+  "Get the code": "Получить код",
+  "Enter": "Войти",
+  "Copied": "Скопировано",
+  "The serial number is copied to the buffer": "Серийный номер скопирован в буфер",
+  "Information": "Информация",
+  "The code has been sent": "Код был отправлен",
+  "Error": "Ошибка",
+  "You didn't request the code": "Вы не запрашивали код",
+  "Invalid code": "Неверный код",
+  "Setting": "Настройка",
+  "Show settings": "Показать настройки",
+  "Reset": "Сбросить",
+  "By default": "По умолчанию",
+  "Save": "Сохранить"
 }
