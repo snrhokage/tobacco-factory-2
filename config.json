@@ -6,7 +6,7 @@
   },
   
   "language": {
-    "options": ["en", "ru"],
+    "options": ["en", "ru", "zn"],
     "default": "ru"
   },
   
