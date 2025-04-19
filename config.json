@@ -74,11 +74,18 @@
     "max": 255,
     "default": 10
   },
-  "bot-die-radius": {
-    "min": 0,
-    "max": 540,
-    "default": 230
-  },
+  "bot-die-radius": [
+    {
+      "min": 0,
+      "max": 540,
+      "default": 230
+    },
+    {
+      "min": 0,
+      "max": 540,
+      "default": 230
+    }
+  ],
   "bot-die-color": [
     {
     "min": 0,
